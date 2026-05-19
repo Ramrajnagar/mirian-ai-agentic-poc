@@ -1,0 +1,77 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "company_name": "Apex Manufacturing Ltd.",
+    "contact_name": "Sarah Chen",
+    "contact_email": "s.chen@apexmfg.com",
+    "industry": "Manufacturing",
+    "credit_limit": 500000,
+    "payment_history": [
+      {"invoice_id": "INV-0901", "invoice_amount": 42500, "due_date": "2024-09-01", "paid_date": "2024-08-30", "days_late": 0},
+      {"invoice_id": "INV-1001", "invoice_amount": 38000, "due_date": "2024-10-01", "paid_date": "2024-10-03", "days_late": 2},
+      {"invoice_id": "INV-1101", "invoice_amount": 45000, "due_date": "2024-11-01", "paid_date": "2024-11-01", "days_late": 0},
+      {"invoice_id": "INV-1201", "invoice_amount": 51000, "due_date": "2024-12-01", "paid_date": "2024-12-05", "days_late": 4},
+      {"invoice_id": "INV-0102", "invoice_amount": 48000, "due_date": "2025-01-01", "paid_date": "2025-01-02", "days_late": 1}
+    ]
+  },
+  {
+    "customer_id": "CUST-002",
+    "company_name": "Brightstone Retail Group",
+    "contact_name": "Marcus Williams",
+    "contact_email": "m.williams@brightstoneretail.com",
+    "industry": "Retail",
+    "credit_limit": 200000,
+    "payment_history": [
+      {"invoice_id": "INV-0902", "invoice_amount": 18000, "due_date": "2024-09-15", "paid_date": "2024-10-10", "days_late": 25},
+      {"invoice_id": "INV-1002", "invoice_amount": 22000, "due_date": "2024-10-15", "paid_date": "2024-11-18", "days_late": 34},
+      {"invoice_id": "INV-1102", "invoice_amount": 19500, "due_date": "2024-11-15", "paid_date": "2024-12-20", "days_late": 35},
+      {"invoice_id": "INV-1202", "invoice_amount": 25000, "due_date": "2024-12-15", "paid_date": "2025-01-30", "days_late": 46},
+      {"invoice_id": "INV-0202", "invoice_amount": 21000, "due_date": "2025-02-15", "paid_date": "2025-03-25", "days_late": 38}
+    ]
+  },
+  {
+    "customer_id": "CUST-003",
+    "company_name": "Nexus Logistics Corp.",
+    "contact_name": "Priya Patel",
+    "contact_email": "p.patel@nexuslogistics.com",
+    "industry": "Logistics",
+    "credit_limit": 350000,
+    "payment_history": [
+      {"invoice_id": "INV-0903", "invoice_amount": 65000, "due_date": "2024-09-01", "paid_date": "2024-11-15", "days_late": 75},
+      {"invoice_id": "INV-1003", "invoice_amount": 72000, "due_date": "2024-10-01", "paid_date": "2024-12-20", "days_late": 80},
+      {"invoice_id": "INV-1103", "invoice_amount": 58000, "due_date": "2024-11-01", "paid_date": "2025-02-10", "days_late": 101},
+      {"invoice_id": "INV-1203", "invoice_amount": 80000, "due_date": "2024-12-01", "paid_date": null, "days_late": 120},
+      {"invoice_id": "INV-0103", "invoice_amount": 68000, "due_date": "2025-01-01", "paid_date": null, "days_late": 90}
+    ]
+  },
+  {
+    "customer_id": "CUST-004",
+    "company_name": "Verdant Technology Solutions",
+    "contact_name": "James O'Brien",
+    "contact_email": "j.obrien@verdanttech.io",
+    "industry": "Technology",
+    "credit_limit": 150000,
+    "payment_history": [
+      {"invoice_id": "INV-0904", "invoice_amount": 12000, "due_date": "2024-09-30", "paid_date": "2024-10-12", "days_late": 12},
+      {"invoice_id": "INV-1004", "invoice_amount": 14500, "due_date": "2024-10-31", "paid_date": "2024-11-18", "days_late": 18},
+      {"invoice_id": "INV-1104", "invoice_amount": 11000, "due_date": "2024-11-30", "paid_date": "2024-12-22", "days_late": 22},
+      {"invoice_id": "INV-1204", "invoice_amount": 13000, "due_date": "2024-12-31", "paid_date": "2025-01-28", "days_late": 28},
+      {"invoice_id": "INV-0204", "invoice_amount": 15500, "due_date": "2025-02-28", "paid_date": "2025-03-27", "days_late": 27}
+    ]
+  },
+  {
+    "customer_id": "CUST-005",
+    "company_name": "Summit Healthcare Partners",
+    "contact_name": "Dr. Lisa Nakamura",
+    "contact_email": "l.nakamura@summithealthcare.org",
+    "industry": "Healthcare",
+    "credit_limit": 750000,
+    "payment_history": [
+      {"invoice_id": "INV-0905", "invoice_amount": 95000, "due_date": "2024-09-01", "paid_date": "2024-09-01", "days_late": 0},
+      {"invoice_id": "INV-1005", "invoice_amount": 88000, "due_date": "2024-10-01", "paid_date": "2024-09-28", "days_late": 0},
+      {"invoice_id": "INV-1105", "invoice_amount": 102000, "due_date": "2024-11-01", "paid_date": "2024-10-30", "days_late": 0},
+      {"invoice_id": "INV-1205", "invoice_amount": 97000, "due_date": "2024-12-01", "paid_date": "2024-11-29", "days_late": 0},
+      {"invoice_id": "INV-0105", "invoice_amount": 110000, "due_date": "2025-01-01", "paid_date": "2025-01-03", "days_late": 2}
+    ]
+  }
+]

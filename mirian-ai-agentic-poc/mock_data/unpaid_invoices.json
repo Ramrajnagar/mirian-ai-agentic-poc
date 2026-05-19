@@ -1,0 +1,75 @@
+[
+  {
+    "invoice_id": "INV-2501-APEX",
+    "customer_id": "CUST-001",
+    "amount": 53500.00,
+    "currency": "USD",
+    "issue_date": "2025-04-01",
+    "due_date": "2025-05-01",
+    "status": "overdue",
+    "line_items": [
+      "Enterprise Software License Q2 2025 — $35,000",
+      "Implementation Services — $12,000",
+      "Priority Support Package — $6,500"
+    ],
+    "notes": "Net-30 terms. Second invoice of 2025."
+  },
+  {
+    "invoice_id": "INV-2502-BRIGHT",
+    "customer_id": "CUST-002",
+    "amount": 27800.00,
+    "currency": "USD",
+    "issue_date": "2025-03-15",
+    "due_date": "2025-04-14",
+    "status": "overdue",
+    "line_items": [
+      "Seasonal Inventory Supply — $22,000",
+      "Fulfillment & Warehousing Services — $5,800"
+    ],
+    "notes": "Customer has history of 30–45 day delays. Follow up proactively."
+  },
+  {
+    "invoice_id": "INV-2503-NEXUS",
+    "customer_id": "CUST-003",
+    "amount": 91000.00,
+    "currency": "USD",
+    "issue_date": "2025-02-01",
+    "due_date": "2025-03-03",
+    "status": "overdue",
+    "line_items": [
+      "Long-Haul Freight Services Feb 2025 — $55,000",
+      "Cross-Border Customs Management — $20,000",
+      "Fleet Maintenance Consulting — $16,000"
+    ],
+    "notes": "Previous two invoices also outstanding. Escalation recommended."
+  },
+  {
+    "invoice_id": "INV-2504-VERD",
+    "customer_id": "CUST-004",
+    "amount": 16200.00,
+    "currency": "USD",
+    "issue_date": "2025-04-15",
+    "due_date": "2025-05-15",
+    "status": "overdue",
+    "line_items": [
+      "Cloud Infrastructure Services May 2025 — $9,500",
+      "DevOps Consulting (20hrs @ $340/hr) — $6,700"
+    ],
+    "notes": null
+  },
+  {
+    "invoice_id": "INV-2505-SUMM",
+    "customer_id": "CUST-005",
+    "amount": 118000.00,
+    "currency": "USD",
+    "issue_date": "2025-04-01",
+    "due_date": "2025-05-01",
+    "status": "overdue",
+    "line_items": [
+      "Medical Equipment Lease Q2 2025 — $85,000",
+      "Clinical Data Management System — $23,000",
+      "Training & Onboarding Services — $10,000"
+    ],
+    "notes": "Highest-value account. Prompt payer — likely an oversight."
+  }
+]
