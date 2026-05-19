@@ -239,7 +239,7 @@ What it would take to move this from PoC to production-grade:
 
 ## About This Project
 
-Built independently to demonstrate product alignment and technical execution for **Mirian AI** — the AI-native Financial Operating System for mid-market finance teams.
+Built independently to demonstrate product alignment and technical execution for **Mirian AI**  the AI-native Financial Operating System for mid-market finance teams.
 
 The architecture deliberately mirrors Mirian's stated product principles:
 - *"Deterministic logic handles the math. Agentic reasoning handles the exceptions."*
