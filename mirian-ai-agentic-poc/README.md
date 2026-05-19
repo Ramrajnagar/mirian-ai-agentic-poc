@@ -1,6 +1,6 @@
-# Agentic AR Dunning Agent — Mirian AI PoC
+# Agentic AR Dunning Agent  Mirian AI PoC
 
-> A working proof-of-concept demonstrating an **AI-native Accounts Receivable automation agent** — built independently to show technical and product alignment with [Mirian AI](https://mirianai.com/).
+> A working proof-of-concept demonstrating an **AI-native Accounts Receivable automation agent**  built independently to show technical and product alignment with [Mirian AI](https://mirianai.com/).
 
 [![CI](https://github.com/YOUR_USERNAME/mirian-ai-agentic-poc/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/mirian-ai-agentic-poc/actions)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
@@ -11,7 +11,7 @@
 
 ## The Problem
 
-Finance teams lose weeks chasing the same invoices with the same generic emails. Every late customer gets the same message — regardless of whether they're a 10-year prompt payer who simply forgot, or a chronic non-payer who needs a legal escalation. This wastes AR team time, damages customer relationships, and leaves cash on the table.
+Finance teams lose weeks chasing the same invoices with the same generic emails. Every late customer gets the same message  regardless of whether they're a 10-year prompt payer who simply forgot, or a chronic non-payer who needs a legal escalation. This wastes AR team time, damages customer relationships, and leaves cash on the table.
 
 ## The Solution
 
